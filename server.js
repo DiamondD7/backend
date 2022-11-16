@@ -20,6 +20,8 @@ app.use(express.json());
 //   });
 // }
 
+app.get("/", (req, res) => res.send("Server is running..."));
+
 const port = process.env.PORT || 5000;
 
 const uri = process.env.API_URI;

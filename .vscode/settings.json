@@ -1,0 +1,4 @@
+{
+  "appService.defaultWebAppToDeploy": "/subscriptions/326e99b7-52a0-48d0-b3ac-504cd1ac1f7f/AppServices/subscriptions/326e99b7-52a0-48d0-b3ac-504cd1ac1f7f/resourceGroups/shopliftnzresource/providers/Microsoft.Web/sites/shopliftserver",
+  "appService.deploySubpath": "."
+}
